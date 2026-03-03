@@ -1,0 +1,33 @@
+Ensuring the visual elements of your page are clickable is just as important as ensuring they have enough contrast and are in a consistent place. The minimum amount of space required for an element to be clickable is 24x24 pixels.
+
+This ensures the elements are touchable and clickable in several scenarios. This could include various screen sizes, zoom, or difficulty with motor movement. It ensures items are not accidentally clicked when adjacent to other elements.
+
+WCAG 2.1 AAA standard ups this minimum requirement to 44x44 pixels for each clickable element.
+
+## Example
+
+![Two screenshots next to each other to compare the hamburger icon in a website, the icon itself is too small, but the clickable area around it is expanded to meet the minimum size requirements](https://embed.filekitcdn.com/e/qH3zYM66ACnU9H1etxAaxA/rsDLGDpEh7U31f3bSPukB5/email)
+
+Using CSS the clickable areas of elements can be expanded
+
+In the example above it shows the icon itself isn’t large enough to meet the 24x24 px size requirements, to ensure the target size is large enough, the clickable space in the style is expanded to include space around the icon.
+
+## Task
+
+1. Open the homepage of your website
+2. Open the inspector and select the axe DevTools
+3. Run a test on the entire page
+4. Read through the results to ensure there are no target size errors
+5. Change the window size or use the device toolbar to simulate a smaller screen
+6. Run the test again and look for results
+7. If there are any icons or text that appear too small, inspect those elements to view their visible size including any padding
+
+## Considerations
+
+- If an element is smaller than 24x24, ensure there is enough padding around the element to allow the space at least that size is available to click and activate the item.
+
+## Further resources
+
+- [​Understanding SC 2.5.8:Target Size (Minimum) (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)
+- [​Understanding SC 2.5.5:Target Size (Level AAA)​](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
+- [​Axe DevTools browser extension​](https://www.deque.com/axe/devtools/)

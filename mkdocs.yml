@@ -1,0 +1,57 @@
+site_name: A11y training
+site_description: Accessibility training course
+site_url: http://127.0.0.1:8000
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+
+nav:
+  - Intro: index.md
+  - Day 1 - Title tags: Day 1 - Title tags.md
+  - Day 2 - Heading structure: Day 2 - Heading structure.md
+  - Day 3 - Link labels: Day 3 - Link labels.md
+  - Day 4 - Keyboard only navigation: Day 4 - Keyboard only navigation.md
+  - Day 5 - Skip links bypass blocks: Day 5 - Skip links bypass blocks.md
+  - Day 6 - Zoom and resizing: Day 6 - Zoom and resizing.md
+  - Day 7 - Image alternate text: Day 7 - Image alternate text.md
+  - Day 8 - Form inputs, labels, and submit buttons: Day 8 - Form inputs, labels, and submit buttons.md
+  - Day 9 - Form timeouts and session warnings: Day 9 - Form timeouts and session warnings.md
+  - Day 10 - Content paragraphs, lists, and blockquotes: Day 10 - Content paragraphs, lists, and blockquotes.md
+  - Day 11 - Color contrast: Day 11 - Color contrast.md
+  - Day 12 - Video captions and audio descriptions: Day 12 - Video captions and audio descriptions.md
+  - Day 13 - Landmarks: Day 13 - Landmarks.md
+  - Day 14 - Emoji usage: Day 14 - Emoji usage.md
+  - Day 15 - Email accessibility: Day 15 - Email accessibility.md
+  - Day 16 - iFrames and title attributes: Day 16 - iFrames and title attributes.md
+  - Day 17 - Tables: Day 17 - Tables.md
+  - Day 18 - Reading level and plain language: Day 18 - Reading level and plain language.md
+  - Day 19 - Using a desktop screen reader: Day 19 - Using a desktop screen reader.md
+  - Day 20 - ARIA live regions: Day 20 - ARIA live regions.md
+  - Day 21 - Modals: Day 21 - Modals.md
+  - Day 22 - Predictability: Day 22 - Predictability.md
+  - Day 23 - Target size: Day 23 - Target size.md
+  - Day 24 - Sensory characteristics: Day 24 - Sensory characteristics.md
+  - Day 25 - Pointer cancellation: Day 25 - Pointer cancellation.md
+  - Day 26 - Reduce animation: Day 26 - Reduce animation.md
+  - Day 27 - CAPTCHA: Day 27 - CAPTCHA.md
+  - Day 28 - Meaningful Sequence: Day 28 - Meaningful Sequence.md
+  - Day 29 - Abbreviations: Day 29 - Abbreviations.md
+  - Day 30 - Building internal support: Day 30 - Building internal support.md
+  - Day 31 - Wrap up and survey: Day 31 - Wrap up and survey.md

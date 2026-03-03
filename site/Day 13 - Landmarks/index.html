@@ -1280,7 +1280,7 @@
   <h1>Day 13 - Landmarks</h1>
 
 <p>Like headings, a visitor who cannot visually see the layout of a page uses the underlying structure to learn about the content as an overview and to jump to specific regions. You can control the labels and what is contained in these areas using landmarks.</p>
-<p>Many HTML5 elements are landmarks built-in which enables accessibility support out of the box. These elements are <header>, <nav>, <main>, <aside>, <section>, and <footer>.</p>
+<p>Many HTML5 elements are landmarks built-in which enables accessibility support out of the box. These elements are <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;aside&gt;</code>, <code>&lt;section&gt;</code>, and <code>&lt;footer&gt;</code>.</p>
 <p>You may have multiple of these elements on a page, for example, a site and breadcrumbs navigation. You can label each instance with <code>aria-labelledby</code>, if the label is visible on the page, or provide your own label with <code>aria-label</code> on the landmark element.</p>
 <p>The landmarks pair well with the skip links/bypass blocks on your page. Pairing the bypass blocks with regions emphasizes the importance of structured markup.</p>
 <h2 id="example">Example</h2>
@@ -1299,9 +1299,9 @@
 </ol>
 <h2 id="considerations">Considerations</h2>
 <ul>
-<li>When possible, use native HTML elements instead of relying on ARIA attributes on <div> elements</li>
+<li>When possible, use native HTML elements instead of relying on ARIA attributes on <code>&lt;div&gt;</code> elements</li>
 <li>Ideally, all content on a page would be covered in a region</li>
-<li>Often the regions are taken care of in the overall template of the site, but each page may contain <aside> or <section> elements within the <main> content. These two elements are often confused with each other. “aside” is content related to the main content, and “section” is not related to the main content.</li>
+<li>Often the regions are taken care of in the overall template of the site, but each page may contain <code>&lt;aside&gt;</code> or <code>&lt;section&gt;</code> elements within the <code>&lt;main&gt;</code> content. These two elements are often confused with each other. “aside” is content related to the main content, and “section” is not related to the main content.</li>
 </ul>
 <h2 id="tools">Tools</h2>
 <ul>

@@ -15,9 +15,7 @@ Emojis should not replace interface elements or replace words. The text “Like�
 
 ## Example
 
-[
-
-![Screenshot of a webpage with screen reader open reading the lightning bolt emoji](https://embed.filekitcdn.com/e/qH3zYM66ACnU9H1etxAaxA/9G9QRrGqoG7A6X5VCNeKkC/email)](https://www.loom.com/share/7908a7cb8bd341a5a7d478febaa7504f)
+<div style="position: relative; padding-bottom: 59.23076923076923%; height: 0;"><iframe src="https://www.loom.com/embed/7908a7cb8bd341a5a7d478febaa7504f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Video of a screen reader reading emoji characters on a web page
 
@@ -32,11 +30,11 @@ The example video above demonstrates how emojis are read in the context of the w
 
 ## Hide an emoji from a screen reader
 
-<p>Some text on the page <span aria-hidden="true">😁</span></p>
+`<p>Some text on the page <span aria-hidden="true">😁</span></p>`
 
 ## Replace the emoji with image properties
 
-<p>Some text on the page <span role=”img” aria-label=”excited emoji face”>😁</span></p>
+`<p>Some text on the page <span role=”img” aria-label=”excited emoji face”>😁</span></p>`
 
 ## Further resources
 

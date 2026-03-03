@@ -21,7 +21,7 @@ Email errors are grouped by headings, sections, links, images and document categ
 
 ## Fixes
 
-The most common issue, table structures used for layout, can be corrected by adding a role="presentation" attribute to the table elements, <table role="presentation" …>. This tells screen readers the table is only for presentation purposes and not to go into table mode when starting to read its contents. You will need to do this for each <table> element that is not tabular data.
+The most common issue, table structures used for layout, can be corrected by adding a role="presentation" attribute to the table elements, `<table role="presentation" …>`. This tells screen readers the table is only for presentation purposes and not to go into table mode when starting to read its contents. You will need to do this for each `<table>` element that is not tabular data.
 
 ## Further resources
 

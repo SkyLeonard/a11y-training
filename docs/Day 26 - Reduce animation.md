@@ -30,11 +30,13 @@ Just because someone doesn’t have the system-wide setting selected to reduce m
 
 In CSS, detecting if someone prefers reduced motion looks like this:
 
-@media (prefers-reduced-motion: reduce) { /* styles applied if the visitor prefers to reduce motion */ }
+`@media (prefers-reduced-motion: reduce) { /* styles applied if the visitor prefers to reduce motion */ }`
 
 In Javascript, detecting if someone prefers reduced motion looks like this:
 
+```
 const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)'); mediaQuery.addEventListener('change', () => { console.log(mediaQuery.media, mediaQuery.matches); // Javascript applied to reduce animations });
+```
 
 More example code and considerations are provided in the resource links.
 

@@ -31,7 +31,7 @@ A few things about the example above are not technically wrong but could make th
 
 ## Most common fix
 
-If your site is not zooming in at all, check the <head> of your page to ensure the meta viewport tag allows zooming: <meta name="viewport" content="width=device-width, initial-scale=1">
+If your site is not zooming in at all, check the `<head>` of your page to ensure the meta viewport tag allows zooming: `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
 If you see “user-scalable=no” in the content attribute, remove it and try the task again.
 

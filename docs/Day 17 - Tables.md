@@ -18,15 +18,15 @@ The example above doesn’t fail the automated accessibility test, but the conte
 
 ## Task
 
-1. Search for any <table> elements on your site
+1. Search for any `<table>` elements on your site
 2. Evaluate each table first, is the information something you would copy/paste into a spreadsheet to share?
-3. If the table content is appropriate, are the headings in the appropriate spot (rows, columns, or both) and marked up as <thead> and <th> elements in HTML?
-4. Does the table need a <caption> or <summary> element to describe the contents?
+3. If the table content is appropriate, are the headings in the appropriate spot (rows, columns, or both) and marked up as `<thead>` and `<th>` elements in HTML?
+4. Does the table need a `<caption>` or `<summary>` element to describe the contents?
 
 ## Considerations
 
 - Complex tables with header rows or columns that span multiple cells will be combined when reading the value of each cell as long as the “scope” attribute is applied.
-- If you have no choice but to use tables for some visual display but do not want a screen reader to use the table mode to navigate the cells, add role=”presentation” to the table element, for example, <table role="presentation" …>.
+- If you have no choice but to use tables for some visual display but do not want a screen reader to use the table mode to navigate the cells, add role=”presentation” to the table element, for example, `<table role="presentation" …>`.
 
 ## Further resources
 

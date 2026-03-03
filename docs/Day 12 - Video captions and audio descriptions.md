@@ -27,7 +27,7 @@ You will notice in the example above, capitalization and punctuation is used to 
 
 ## Task
 
-1. Identify any pages with video embeds. Video embeds can be from popular hosting platforms, YouTube, Vimeo, etc. or they can be native <video> elements. If you don’t have any embeds, go to your video hosting platform and navigate to your channel or video list.
+1. Identify any pages with video embeds. Video embeds can be from popular hosting platforms, YouTube, Vimeo, etc. or they can be native `<video>` elements. If you don’t have any embeds, go to your video hosting platform and navigate to your channel or video list.
 2. Put your device on mute so you can’t hear any audio
 3. Turn captions on to see if they are accurate to the video
 4. If the video doesn’t have spoken word, is it possible to turn on audio descriptions?

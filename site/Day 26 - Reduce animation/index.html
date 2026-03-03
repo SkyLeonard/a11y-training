@@ -1280,9 +1280,10 @@
 <h2 id="considerations">Considerations</h2>
 <p>Just because someone doesn’t have the system-wide setting selected to reduce motion, doesn’t mean the specific motion on your site may affect them. Ensuring there is a way to turn off or view the same animated information in another format on your site is still necessary.</p>
 <p>In CSS, detecting if someone prefers reduced motion looks like this:</p>
-<p>@media (prefers-reduced-motion: reduce) { /<em> styles applied if the visitor prefers to reduce motion </em>/ }</p>
+<p><code>@media (prefers-reduced-motion: reduce) { /* styles applied if the visitor prefers to reduce motion */ }</code></p>
 <p>In Javascript, detecting if someone prefers reduced motion looks like this:</p>
-<p>const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)'); mediaQuery.addEventListener('change', () =&gt; { console.log(mediaQuery.media, mediaQuery.matches); // Javascript applied to reduce animations });</p>
+<pre><code>const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)'); mediaQuery.addEventListener('change', () =&gt; { console.log(mediaQuery.media, mediaQuery.matches); // Javascript applied to reduce animations });
+</code></pre>
 <p>More example code and considerations are provided in the resource links.</p>
 <h2 id="further-resources">Further resources</h2>
 <ul>

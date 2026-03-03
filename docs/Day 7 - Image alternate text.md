@@ -25,7 +25,7 @@ Screenshot of Chrome with the alt text of each image displayed on screen
 ## Considerations
 
 - Decorative images do not need alt text, but they do need the alt=”” attribute defined
-- If there is no ‘alt’ attribute on the <img> tag, a screen reader will read the filename, which typically isn’t ideal
+- If there is no ‘alt’ attribute on the `<img>` tag, a screen reader will read the filename, which typically isn’t ideal
 - Alt text does not need to start with “Image of” because a screen reader will give the context that it is an image
 - If there is an image with text on it, ensure the same text is in the alt attribute
 

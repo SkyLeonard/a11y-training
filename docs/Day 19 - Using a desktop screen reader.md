@@ -8,9 +8,7 @@ The goal today is to take the first step in getting a screen reader started and 
 
 ## Example
 
-[
-
-![Screenshot of a video showing the heads up display of landmarks using VoiceOver on a Mac](https://embed.filekitcdn.com/e/qH3zYM66ACnU9H1etxAaxA/gpQrzFXCiZxU3JW4HbPSE2/email)](https://www.loom.com/share/268c57a5e18241caa8a62dfdba0bd09d)
+<div style="position: relative; padding-bottom: 61.27167630057804%; height: 0;"><iframe src="https://www.loom.com/embed/268c57a5e18241caa8a62dfdba0bd09d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Video example of VoiceOver on a Mac interacting with navigation elements on a web page
 

@@ -6,15 +6,13 @@ Sighted users may notice the alert show up on the screen or content update but s
 
 This dynamic content can be announced with a little bit of planning and JavaScript. ARIA live regions allow for these content updates to be announced.
 
-The element must exist first on the page: <div role="region" aria-live="polite">...</div>
+The element must exist first on the page: `<div role="region" aria-live="polite">...</div>`
 
 As soon as content is added to the live region, it is read by the screen reader at the next pause.
 
 ## Example
 
-[
-
-![Screenshot of a video example of an ARIA live region in action](https://embed.filekitcdn.com/e/qH3zYM66ACnU9H1etxAaxA/6ZiGp5ARywjKshoGBbpFL1/email)](https://www.loom.com/share/2d20df5775de4a49aeafe67beb657251)
+<div style="position: relative; padding-bottom: 60.982658959537574%; height: 0;"><iframe src="https://www.loom.com/embed/2d20df5775de4a49aeafe67beb657251" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ARIA live regions in action using VoiceOver
 

@@ -1,6 +1,6 @@
 Like headings, a visitor who cannot visually see the layout of a page uses the underlying structure to learn about the content as an overview and to jump to specific regions. You can control the labels and what is contained in these areas using landmarks.
 
-Many HTML5 elements are landmarks built-in which enables accessibility support out of the box. These elements are <header>, <nav>, <main>, <aside>, <section>, and <footer>.
+Many HTML5 elements are landmarks built-in which enables accessibility support out of the box. These elements are `<header>`, `<nav>`, `<main>`, `<aside>`, `<section>`, and `<footer>`.
 
 You may have multiple of these elements on a page, for example, a site and breadcrumbs navigation. You can label each instance with `aria-labelledby`, if the label is visible on the page, or provide your own label with `aria-label` on the landmark element.
 
@@ -26,9 +26,9 @@ The example above shows an overview of the regions available to the visitor. The
 
 ## Considerations
 
-- When possible, use native HTML elements instead of relying on ARIA attributes on <div> elements
+- When possible, use native HTML elements instead of relying on ARIA attributes on `<div>` elements
 - Ideally, all content on a page would be covered in a region
-- Often the regions are taken care of in the overall template of the site, but each page may contain <aside> or <section> elements within the <main> content. These two elements are often confused with each other. “aside” is content related to the main content, and “section” is not related to the main content.
+- Often the regions are taken care of in the overall template of the site, but each page may contain `<aside>` or `<section>` elements within the `<main>` content. These two elements are often confused with each other. “aside” is content related to the main content, and “section” is not related to the main content.
 
 ## Tools
 

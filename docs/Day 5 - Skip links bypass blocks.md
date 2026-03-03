@@ -17,9 +17,9 @@ GIF of a bypass block in action moving between navigation and main content
 
 There are some technical considerations that need to be made when adding these links:
 
-1. They need to be the first focusable items in the HTML, usually directly after the <body> tag
+1. They need to be the first focusable items in the HTML, usually directly after the `<body>` tag
 2. If you were to implement any, start with jumping to the main content area
-3. If you are anchoring down to an element that is not an anchor tag <a>, add a tabindex=”-1” to the element to allow it to be selectable, for example: <main id="content" tabindex="-1">
+3. If you are anchoring down to an element that is not an anchor tag `<a>`, add a tabindex=”-1” to the element to allow it to be selectable, for example: `<main id="content" tabindex="-1">`
 
 ## Further resources
 

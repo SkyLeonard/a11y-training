@@ -4,7 +4,7 @@ Abbreviations are useful for everyone, especially those visitors who may have di
 
 Across industries the same acronyms exist, ensuring they are explicitly defined allows the visitor to understand the context of your website instead of what they may have had previous exposure to.
 
-Abbreviations should be added after the first use of the full term. Example: "World Wide Web Consortium (W3C)”. The abbreviation can be programmatically defined by the <abbr> HTML tag. Example: <abbr title="World Wide Web Consortium">W3C</abbr>.
+Abbreviations should be added after the first use of the full term. Example: "World Wide Web Consortium (W3C)”. The abbreviation can be programmatically defined by the `<abbr>` HTML tag. Example: `<abbr title="World Wide Web Consortium">W3C</abbr>`.
 
 When programmatically defined, the browser or screen reader will be able to yield to the visitor’s preferences to either read the expanded form each time, on command, or visually show the expanded form in a tooltip.
 

@@ -23,7 +23,7 @@ The example above is the default Soundcloud embed of an audio player. The iframe
 - Without a title attribute, a screen reader may read “frame”, the filename, or the full URL of the frame
 - Like headings, links, and regions, screen readers can pull up a list of frames on the page, ensure the tile also makes sense outside the context of the page content
 - Ensure the frame titles are unique, multiple of the same titles can be confusing to a visitor
-- If an iframe is only used to inject additional code or isn’t relevant to the end-user (example: Google Tag Manager), hide it from a user by adding aria-hidden="true" to the <iframe> tag
+- If an iframe is only used to inject additional code or isn’t relevant to the end-user (example: Google Tag Manager), hide it from a user by adding `aria-hidden="true"` to the `<iframe>` tag
 
 ## Further resources
 

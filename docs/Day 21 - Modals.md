@@ -15,9 +15,7 @@ Another type of modal is the ‘toast message’ that may appear in the corner o
 
 ## Example
 
-[
-
-![Screenshot of a Loom video which uses Safari and VoiceOver to walk thruogh a modal example](https://embed.filekitcdn.com/e/qH3zYM66ACnU9H1etxAaxA/qkeeBne3gjzXKMP1yMQiyw/email)](https://www.loom.com/share/2a51463ae97a49f3bbab7010564908ee)
+<div style="position: relative; padding-bottom: 64.32748538011697%; height: 0;"><iframe src="https://www.loom.com/embed/2a51463ae97a49f3bbab7010564908ee" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Video of a modal in action using Safari and VoiceOver screen reader
 

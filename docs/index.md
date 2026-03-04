@@ -9,3 +9,13 @@ Most of the topics will reach beyond accessibility as we work to provide equal a
 We’ll start with the heavy-hitter items that make the most impact and then move to the items that may be a little more complex but really make your web presence shine.
 
 _Note: This is not meant to be a comprehensive guide, it is only a small fraction of the details, rationale, and considerations when ensuring equal access to content online. This is only meant to be a prompt, each daily email could be an entire 30-day course of its own._ 
+
+## Browser extensions to install
+
+- [​axe DevTools browser extension​](https://www.deque.com/axe/browser-extensions/)
+- [Siteimprove browser extension​](https://www.siteimprove.com/why-siteimprove/integrations/browser-extensions/) (Filter to A, AA and ARIA conformance)
+- [​SEO META 1 COPY Firebox browser extension​](https://addons.mozilla.org/en-US/firefox/addon/seo-meta-1-copy/) - [​Chrome version​](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc?hl=en)
+- [​Headings map Firefox browser extension​](https://addons.mozilla.org/en-US/firefox/addon/headingsmap/) - [​Chrome version​](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
+- [​LinkListSidebar Firefox extension​](https://addons.mozilla.org/en-US/firefox/addon/linklistsidebar/) - [LinkList Chrome version](https://chromewebstore.google.com/detail/link-list/caifphhfadgaiddefealbdeakngdfdec?hl=en)
+- [​Web Developer Firefox browser extension​](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) - [​Chrome version​](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [​Landmarks browser extension​](https://matatk.agrip.org.uk/landmarks/)

@@ -37,6 +37,7 @@ There are hundreds of details that could affect the basic functionality of forms
 ## Tools
 
 - [​axe DevTools browser extension​](https://www.deque.com/axe/browser-extensions/)
+- [Siteimprove browser extension​](https://www.siteimprove.com/why-siteimprove/integrations/browser-extensions/)
 
 ## Further resources
 

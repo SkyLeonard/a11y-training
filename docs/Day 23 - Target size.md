@@ -26,6 +26,11 @@ In the example above it shows the icon itself isn’t large enough to meet the 2
 
 - If an element is smaller than 24x24, ensure there is enough padding around the element to allow the space at least that size is available to click and activate the item.
 
+## Browser extensions
+
+- [​axe DevTools browser extension​](https://www.deque.com/axe/browser-extensions/)
+- [Siteimprove browser extension​](https://www.siteimprove.com/why-siteimprove/integrations/browser-extensions/) (Filter to A, AA and ARIA conformance)
+
 ## Further resources
 
 - [​Understanding SC 2.5.8:Target Size (Minimum) (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)

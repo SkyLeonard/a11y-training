@@ -2,15 +2,13 @@ Ensuring the visual elements of your page are clickable is just as important as 
 
 This ensures the elements are touchable and clickable in several scenarios. This could include various screen sizes, zoom, or difficulty with motor movement. It ensures items are not accidentally clicked when adjacent to other elements.
 
-WCAG 2.1 AAA standard ups this minimum requirement to 44x44 pixels for each clickable element.
-
 ## Example
 
 ![Two screenshots next to each other to compare the hamburger icon in a website, the icon itself is too small, but the clickable area around it is expanded to meet the minimum size requirements](https://embed.filekitcdn.com/e/qH3zYM66ACnU9H1etxAaxA/rsDLGDpEh7U31f3bSPukB5/email)
 
-Using CSS the clickable areas of elements can be expanded
+Using CSS, the clickable areas of elements can be expanded.
 
-In the example above it shows the icon itself isn’t large enough to meet the 24x24 px size requirements, to ensure the target size is large enough, the clickable space in the style is expanded to include space around the icon.
+In the example above, it shows the icon itself isn’t large enough to meet the 24x24 px size requirements. To ensure the target size is large enough, the clickable space in the style is expanded to include space around the icon.
 
 ## Task
 
@@ -24,7 +22,14 @@ In the example above it shows the icon itself isn’t large enough to meet the 2
 
 ## Considerations
 
-- If an element is smaller than 24x24, ensure there is enough padding around the element to allow the space at least that size is available to click and activate the item.
+There are a few exceptions to consider where targets smaller than 24x24 may be acceptable: 
+
+- If targets are positioned so that a 24 pixel diameter circle is centered on the bounding box of each, the circles do not intersect another target or the circle for another undersized target
+- If the same function can be achieved by a different conforming element on the page
+- The target is in a sentence or its size is otherwise constrained by the line-height of non-target text
+- The user has control over the target size of the element
+- The target is legally mandated
+
 
 ## Browser extensions
 

@@ -57,4 +57,4 @@ The above example is something that requires manual checking. It not only is tex
 
 ## Further resources
 
-- [​Understanding SC 1.4.3:Contrast (Minimum) (Level AA)​](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html)
+- [​Understanding SC 1.4.3:Contrast (Minimum) (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html)

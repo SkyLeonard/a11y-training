@@ -29,5 +29,5 @@ In the example above, the tabindex shows what looks like a logical order but you
 
 ## Further resources
 
-- [​SC 1.3.2:Meaningful Sequence (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence)
+- [​SC 1.3.2:Meaningful Sequence (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence)
 - [​Browser extension - taba11y - Chrome webstore​](https://chrome.google.com/webstore/detail/taba11y/aocppmckdocdjkphmofnklcjhdidgmga)

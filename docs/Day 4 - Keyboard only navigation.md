@@ -47,5 +47,5 @@ These types of fixes require a front-end developer to make special consideration
 
 ## Further resources
 
-- [​Understanding SC 3.2.1:On Focus (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/on-focus.html)
-- [​Understanding SC 2.4.7:Focus Visible (Level AA)​](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html)
+- [​Understanding SC 3.2.1:On Focus (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html)
+- [​Understanding SC 2.4.7:Focus Visible (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html)

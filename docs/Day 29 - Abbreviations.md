@@ -29,8 +29,8 @@ The example above is a web page snippet that uses the abbreviation “WBC” for
 
 ## Further resources
 
-- [​SC 3.1.4:Abbreviations (Level AAA)​](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations)
-- [​G102:Providing the expansion or explanation of an abbreviation​](https://www.w3.org/WAI/WCAG21/Techniques/general/G102)
-- [​H28:Providing definitions for abbreviations by using the abbr element​](https://www.w3.org/WAI/WCAG21/Techniques/html/H28)
+- [​SC 3.1.4:Abbreviations (Level AAA)​](https://www.w3.org/WAI/WCAG22/Understanding/abbreviations)
+- [​G102:Providing the expansion or explanation of an abbreviation​](https://www.w3.org/WAI/WCAG22/Techniques/general/G102)
+- [​H28:Providing definitions for abbreviations by using the abbr element​](https://www.w3.org/WAI/WCAG22/Techniques/html/H28)
 - [​Abbreviations.com​](http://www.abbreviations.com/)
 - [​WordPress plugin - Acronyms 2​](https://wordpress.org/plugins/acronyms-2/)

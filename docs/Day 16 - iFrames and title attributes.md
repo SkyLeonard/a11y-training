@@ -27,4 +27,4 @@ The example above is the default Soundcloud embed of an audio player. The iframe
 
 ## Further resources
 
-- [​Technique H64:Using the title attribute of the iframe element​](https://www.w3.org/WAI/WCAG21/Techniques/html/H64)
+- [​Technique H64:Using the title attribute of the iframe element​](https://www.w3.org/WAI/WCAG22/Techniques/html/H64)

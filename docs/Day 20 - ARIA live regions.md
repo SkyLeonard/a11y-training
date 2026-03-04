@@ -33,8 +33,8 @@ The example above is linked to below, this is a great opportunity to try out you
 
 ## Further resources
 
-- [​Understanding SC 4.1.3: Status Messages (Level AA)​](https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html)
-- [​ARIA22: Using role=status to present status messages​](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA22)
-- [​ARIA19: Using ARIA role=alert or Live Regions to Identify Errors​](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA19)
+- [​Understanding SC 4.1.3: Status Messages (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html)
+- [​ARIA22: Using role=status to present status messages​](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA22)
+- [​ARIA19: Using ARIA role=alert or Live Regions to Identify Errors​](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA19)
 - [​MDN: ARIA live regions​](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions)
 - [​W3C: Alert Example​](https://www.w3.org/WAI/ARIA/apg/patterns/alert/examples/alert/)

@@ -29,4 +29,4 @@ The example above illustrates the activation of menu items only on the mouse-up 
 
 ## Further resources
 
-- [​SC 2.5.2:Pointer Cancellation (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation)
+- [​SC 2.5.2:Pointer Cancellation (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation)

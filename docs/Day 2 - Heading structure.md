@@ -33,5 +33,5 @@ There are a few things to notice about the example above. The first is the multi
 
 ## Further resources
 
-- [​1.3.1 Info and Relationships:​](https://www.w3.org/WAI/WCAG21/quickref/#qr-content-structure-separation-programmatic) Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text. (Level A)
-- [​Understanding SC 2.4.6:Headings and Labels (Level AA)​](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html)
+- [​1.3.1 Info and Relationships:​](https://www.w3.org/WAI/WCAG22/quickref/#qr-content-structure-separation-programmatic) Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text. (Level A)
+- [​Understanding SC 2.4.6:Headings and Labels (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html)

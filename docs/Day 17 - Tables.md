@@ -30,5 +30,5 @@ The example above doesn’t fail the automated accessibility test, but the conte
 
 ## Further resources
 
-- [​H51: Using table markup to present tabular information​](https://www.w3.org/WAI/WCAG21/Techniques/html/H51)
+- [​H51: Using table markup to present tabular information​](https://www.w3.org/WAI/WCAG22/Techniques/html/H51)
 - [​WebAIM: Creating Accessible Tables​](https://webaim.org/techniques/tables/data)

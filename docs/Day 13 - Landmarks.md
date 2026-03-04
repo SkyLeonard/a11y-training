@@ -36,5 +36,5 @@ The example above shows an overview of the regions available to the visitor. The
 
 ## Further resources
 
-- [​Technique ARIA11:Using ARIA landmarks to identify regions of a page​](https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA11)
+- [​Technique ARIA11:Using ARIA landmarks to identify regions of a page​](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA11)
 - [​W3C - ARIA Landmarks Example​](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/main.html)

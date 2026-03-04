@@ -28,5 +28,5 @@ The second example shows a form with red asterisks to denote required fields. Be
 
 ## Further resources
 
-- [​SC 1.3.3:Sensory Characteristics (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics)
-- [​Technique G96:Providing textual identification of items that otherwise rely only on sensory information to be understood​](https://www.w3.org/WAI/WCAG21/Techniques/general/G96)
+- [​SC 1.3.3:Sensory Characteristics (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics)
+- [​Technique G96:Providing textual identification of items that otherwise rely only on sensory information to be understood​](https://www.w3.org/WAI/WCAG22/Techniques/general/G96)

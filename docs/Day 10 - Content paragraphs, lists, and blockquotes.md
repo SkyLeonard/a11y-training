@@ -36,5 +36,5 @@ You may notice in the example it is hard to see the entire page overview. You ma
 ## Further resources
 
 - [​WCAG Content Structure​](https://www.w3.org/WAI/tutorials/page-structure/content/)
-- [​Technique H48:Using ol, ul and dl for lists or groups of links​](https://www.w3.org/WAI/WCAG21/Techniques/html/H48)
-- [​H42: Using h1-h6 to identify headings​](https://www.w3.org/WAI/WCAG21/Techniques/html/H42)
+- [​Technique H48:Using ol, ul and dl for lists or groups of links​](https://www.w3.org/WAI/WCAG22/Techniques/html/H48)
+- [​H42: Using h1-h6 to identify headings​](https://www.w3.org/WAI/WCAG22/Techniques/html/H42)

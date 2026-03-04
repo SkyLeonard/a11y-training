@@ -34,5 +34,5 @@ In the example above it shows the icon itself isn’t large enough to meet the 2
 ## Further resources
 
 - [​Understanding SC 2.5.8:Target Size (Minimum) (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)
-- [​Understanding SC 2.5.5:Target Size (Level AAA)​](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
+- [​Understanding SC 2.5.5:Target Size (Level AAA)​](https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html)
 - [​Axe DevTools browser extension​](https://www.deque.com/axe/devtools/)

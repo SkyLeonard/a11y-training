@@ -1,6 +1,6 @@
 ## Welcome to the 30-Day Accessibility Challenge!
 
-Each day (starting tomorrow) you will receive a short plain text email just like this with a single topic, example, resources, and a task. That task is small enough for you to spend 20 minutes on each day. Today's email will be longer than most.
+Each day you will receive a short plain text email just like this with a single topic, example, resources, and a task. That task is small enough for you to spend 20 minutes on each day. Today's email will be longer than most.
 
 Each may not seem like you’re accomplishing a lot but the goal is to make your website/app 1% better each day. The changes you complete will make a long-lasting impact for your users, increase access, and make your site more of a delight to use.
 

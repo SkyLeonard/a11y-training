@@ -45,5 +45,5 @@ This example shows a few sentences that pack a lot of information into a short s
 - [​Hemingway App​](https://hemingwayapp.com/)
 - [​Juicy Studio Readability Test​](https://juicystudio.com/services/readability.php)
 - [​plainlanguage.gov​](https://www.plainlanguage.gov/)
-- [​Understanding SC 3.1.5:Reading Level (Level AAA)​](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html)
+- [​Understanding SC 3.1.5:Reading Level (Level AAA)​](https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html)
 - [​Reading behavior in the digital environment: Changes in reading behavior over the past ten years​](https://www.emerald.com/insight/content/doi/10.1108/00220410510632040/full/html)

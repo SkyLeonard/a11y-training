@@ -40,6 +40,6 @@ You will notice in the example above, capitalization and punctuation is used to 
 ## Further resources
 
 - [​W3C Captions/Subtitles​](https://www.w3.org/WAI/media/av/captions/)
-- [​Understanding SC 1.2.2:Captions (Prerecorded) (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html)
-- [​Audio Description or Media Alternative (Prerecorded) 1.2.3​](https://www.w3.org/WAI/WCAG21/quickref/#audio-description-or-media-alternative-prerecorded) ([​Understanding 1.2.3​](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded))
+- [​Understanding SC 1.2.2:Captions (Prerecorded) (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html)
+- [​Audio Description or Media Alternative (Prerecorded) 1.2.3​](https://www.w3.org/WAI/WCAG22/quickref/#audio-description-or-media-alternative-prerecorded) ([​Understanding 1.2.3​](https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-media-alternative-prerecorded))
 - [​Able Player​](https://ableplayer.github.io/ableplayer/)

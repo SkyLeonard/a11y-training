@@ -38,6 +38,6 @@ The example video shows a modal that meets all the criteria outlined for the ann
 
 ## Further resources
 
-- [​Understanding SC 2.1.2:No Keyboard Trap (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html)
+- [​Understanding SC 2.1.2:No Keyboard Trap (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html)
 - [​MDN: ARIA: dialog role​](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/dialog_role)
 - [​Designing Toast Messages for Accessibility​](https://scribe.rip/designing-toast-messages-for-accessibility-fb610ac364be)

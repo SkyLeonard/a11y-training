@@ -31,6 +31,6 @@ Ideally, the order of information in a title tag starts with the most important 
 
 ## Further resources
 
-- [​Understanding SC 2.4.2:Page Titled (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html)
-- [​H25: Providing a title using the title element​](https://www.w3.org/WAI/WCAG21/Techniques/html/H25)
-- [​PDF18: Specifying the document title using the Title entry in the document information dictionary of a PDF document​](https://www.w3.org/WAI/WCAG21/Techniques/pdf/PDF18)
+- [​Understanding SC 2.4.2:Page Titled (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html)
+- [​H25: Providing a title using the title element​](https://www.w3.org/WAI/WCAG22/Techniques/html/H25)
+- [​PDF18: Specifying the document title using the Title entry in the document information dictionary of a PDF document​](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF18)

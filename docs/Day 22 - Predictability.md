@@ -30,9 +30,9 @@ The example above shows the consistency between the search, navigation, and brea
 
 ## Further resources
 
-- [​Understanding SC 3.2:Predictable​](https://www.w3.org/WAI/WCAG21/Understanding/predictable)
-- [​3.2.1 On Focus​](https://www.w3.org/WAI/WCAG21/Understanding/on-focus)
-- [​3.2.2 On Input​](https://www.w3.org/WAI/WCAG21/Understanding/on-input)
-- [​3.2.3 Consistent Navigation​](https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation)
-- [​3.2.4 Consistent Identification​](https://www.w3.org/WAI/WCAG21/Understanding/consistent-identification)
-- [​3.2.5 Change on Request​](https://www.w3.org/WAI/WCAG21/Understanding/change-on-request)
+- [​Understanding SC 3.2:Predictable​](https://www.w3.org/WAI/WCAG22/Understanding/predictable)
+- [​3.2.1 On Focus​](https://www.w3.org/WAI/WCAG22/Understanding/on-focus)
+- [​3.2.2 On Input​](https://www.w3.org/WAI/WCAG22/Understanding/on-input)
+- [​3.2.3 Consistent Navigation​](https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation)
+- [​3.2.4 Consistent Identification​](https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification)
+- [​3.2.5 Change on Request​](https://www.w3.org/WAI/WCAG22/Understanding/change-on-request)

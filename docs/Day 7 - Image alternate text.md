@@ -35,5 +35,5 @@ Screenshot of Chrome with the alt text of each image displayed on screen
 
 ## Further resources
 
-- [​Technique H37:Using alt attributes on img elements​](https://www.w3.org/WAI/WCAG21/Techniques/html/H37.html)
-- [​Technique H2:Combining adjacent image and text links for the same resource​](https://www.w3.org/WAI/WCAG21/Techniques/html/H2)
+- [​Technique H37:Using alt attributes on img elements​](https://www.w3.org/WAI/WCAG22/Techniques/html/H37.html)
+- [​Technique H2:Combining adjacent image and text links for the same resource​](https://www.w3.org/WAI/WCAG22/Techniques/html/H2)

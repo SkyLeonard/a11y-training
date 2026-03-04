@@ -37,5 +37,5 @@ If you see “user-scalable=no” in the content attribute, remove it and try th
 
 ## Further resources
 
-- [​Understanding SC 1.4.4:Resize Text (Level AA)​](https://www.w3.org/WAI/WCAG21/Understanding/resize-text)
-- [​Understanding SC 1.4.10:Reflow (Level AA)​](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
+- [​Understanding SC 1.4.4:Resize Text (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/resize-text)
+- [​Understanding SC 1.4.10:Reflow (Level AA)​](https://www.w3.org/WAI/WCAG22/Understanding/reflow.html)

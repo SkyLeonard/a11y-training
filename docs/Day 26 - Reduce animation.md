@@ -42,7 +42,7 @@ More example code and considerations are provided in the resource links.
 
 ## Further resources
 
-- [​SC 2.3.3:Animation from Interactions (Level AAA)​](https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html)
-- [​Technique C39:Using the CSS reduce-motion query to prevent motion​](https://www.w3.org/WAI/WCAG21/Techniques/css/C39)
+- [​SC 2.3.3:Animation from Interactions (Level AAA)​](https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html)
+- [​Technique C39:Using the CSS reduce-motion query to prevent motion​](https://www.w3.org/WAI/WCAG22/Techniques/css/C39)
 - [​MDN: prefers-reduced-motion​](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
 - [​Dev.to: prefers-reduced-motion: Sometimes less movement is more​](https://web.dev/prefers-reduced-motion/)

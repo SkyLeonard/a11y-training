@@ -23,6 +23,6 @@ There are some technical considerations that need to be made when adding these l
 
 ## Further resources
 
-- [​Understanding SC 2.4.1:Bypass Blocks (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html)
+- [​Understanding SC 2.4.1:Bypass Blocks (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html)
 - [​The A11y project - Use skip navigation links​](https://www.a11yproject.com/posts/skip-nav-links/)
 - [​WebAIM - Skip Navigation Links​](https://webaim.org/techniques/skipnav/)

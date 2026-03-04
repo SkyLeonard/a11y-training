@@ -24,4 +24,4 @@ Even if you don’t have forms with timeouts, forms with textarea elements may r
 
 ## Further resources
 
-- [​Understanding SC 2.2.6:Timeouts (Level AAA)​](https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html)
+- [​Understanding SC 2.2.6:Timeouts (Level AAA)​](https://www.w3.org/WAI/WCAG22/Understanding/timeouts.html)

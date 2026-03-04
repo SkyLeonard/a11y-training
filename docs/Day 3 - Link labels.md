@@ -26,5 +26,5 @@ By checking one of the sites I oversee (example above), the labels look pretty c
 
 ## Further resources
 
-- [​Understanding SC 2.4.4:Link Purpose (In Context) (Level A)​](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html)
+- [​Understanding SC 2.4.4:Link Purpose (In Context) (Level A)​](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html)
 - [​Understanding SC 2.4.9:Link Purpose (Link Only) (Level AAA)​](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only)

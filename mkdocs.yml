@@ -1,4 +1,4 @@
-site_name: 30-Day Accessibility training
+site_name: 30 Days of Accessibility
 site_description: Accessibility training course
 site_url: https://nickdenardis.github.io/a11y-training/
 
@@ -30,7 +30,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Intro: index.md
+  - Introduction: index.md
   - Day 1 - Title tags: Day 1 - Title tags.md
   - Day 2 - Heading structure: Day 2 - Heading structure.md
   - Day 3 - Link labels: Day 3 - Link labels.md

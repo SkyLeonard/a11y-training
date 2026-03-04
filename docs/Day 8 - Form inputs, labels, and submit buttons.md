@@ -2,7 +2,7 @@ Hope you enjoyed the start of the month last week with the fundamentals. Even if
 
 This week we’re going deeper into more technical concepts which may take more time to make changes. Try not to get discouraged if you’re not able to fix everything by yourself right away, this is a marathon and not a sprint. Knowing where to put time and attention will help you prioritize the rest of the year.
 
-Today you’ll need to review any forms on your site. You could have one, you could have hundreds 😬
+Today you’ll need to review any forms on your site. You could have one, you could have hundreds 😬.
 
 Search your website for any pages with form elements, if they are native elements, they are the easiest to detect and edit. If they are embedded forms from third-party sites, it is going to be much harder to make changes since you don’t have direct control. If you do detect changes needed on third-party forms, I encourage you to start a conversation with the company to ask if they have tested their forms for accessibility. This may not result in an immediate fix, but it signals to them there are users paying attention to these details.
 
@@ -33,6 +33,8 @@ There are hundreds of details that could affect the basic functionality of forms
 - On error, each field should have a related (in proximity and HTML association) error message
 - On error, the focus should be moved to the first field with an error
 - Forms that auto-submit based on value changes have several additional considerations
+- Forms should not force a user to input repetative information and provide auto-fill functiontality when possible
+- Cognitive puzzles and memorization are not required authentication steps
 
 ## Tools
 
